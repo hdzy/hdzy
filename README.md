@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hdzy
 - 👀 I’m interested in new intesting Web projects
 - 🌱 I’m currently learning JS frameworks
-- 📫 How to reach me [Telegram](https://t.me/hdzyhatesyou)
+- 📫 You can find me here [Telegram](https://t.me/hdzyhatesyou)
 - 👨‍💻 My advances in algorithm development  [Codewars](https://www.codewars.com/users/hdzy)
 
 <!---
